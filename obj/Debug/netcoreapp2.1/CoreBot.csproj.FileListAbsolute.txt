@@ -39,4 +39,3 @@ C:\Bot0ejemploJGC-src\obj\Debug\netcoreapp2.1\CoreBot.AssemblyInfoInputs.cache
 C:\Bot0ejemploJGC-src\obj\Debug\netcoreapp2.1\CoreBot.RazorTargetAssemblyInfo.cache
 C:\Bot0ejemploJGC-src\obj\Debug\netcoreapp2.1\CoreBot.dll
 C:\Bot0ejemploJGC-src\obj\Debug\netcoreapp2.1\CoreBot.pdb
-C:\Bot0ejemploJGC-src\obj\Debug\netcoreapp2.1\CoreBot.csprojResolveAssemblyReference.cache
